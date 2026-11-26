@@ -1,18 +1,18 @@
 <div align="center">
 
-<h1> ⚛️ ApocryphalEnergy </h1>
+<h1>✦ ApocryphalEnergy </h1>
 
-<h3><i>Rules Set at Naught</i></h3>
+<h3><i>An Expert from the Energy Commission</i></h3>
 
-<img src="./flins-genshin-sticker.gif" width="180">
+<img src="./mitya-genshin-sticker.gif" width="180">
 
 <p>
-<i>We must've met before, or you're either stalking me. Understandable, I suppose.</i>
+<i>"Good morning, friend! Wait, is it morning? Ah, doesn't matter!"</i>
 </p>
 
 <p>
-<img src="https://visitor-badge.laobi.icu/badge?page_id=oathboundlight&amp;left_text=Visitors&amp;left_color=%23595959&amp;right_color=%231f3a6e" alt="Visitors">
-<img src="https://img.shields.io/badge/status-endlessly%20searching%20for%20purpose-1f3a6e" alt="Status">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=oathboundlight&amp;left_text=Visitors&amp;left_color=%23595959&amp;right_color=%239b82c7" alt="Visitors">
+<img src="https://img.shields.io/badge/status-searching%20for%20inspiration-9b82c7" alt="Status">
 </p>
 
 </div>
@@ -25,15 +25,15 @@
 <br>
 
 <blockquote>
-<i>"Ah. You've arrived. Pleased to meet you, may we get along well."</i>
+<i>"Good morning, friend! Wait, is it morning? Ah, doesn't matter! Anyway, please step into my office... Great, sit right here. Someone will be right with you. Just tell them you're Mitya, an expert from the Energy Commission. Got that? Okay, that's it. Bye-bye!"</i>
 </blockquote>
 
 <p>
-Hi, I'm <b>Hohenheim, Mitya, or Flins</b> — welcome to my profile. Please feel free to read.
+Hi, I'm <b>Mitya</b> — or Hohenheim, Flins, and a few other names. Welcome to my little corner of GitHub! Feel free to look around.
 </p>
 
 <p>
-<i>"Cold and quiet on the surface, but courteous underneath. Fond of a dry joke, a well-told story, and keeping watch long after everyone else has gone home."</i>
+<i>A curious mind, a wandering imagination, and a tendency to get distracted by inspiration at the most inconvenient times.</i>
 </p>
 
 <ul>
@@ -64,8 +64,7 @@ Hi, I'm <b>Hohenheim, Mitya, or Flins</b> — welcome to my profile. Please feel
 </blockquote>
 
 <ul>
-  
-<li> Mitya </li>
+<li>Mitya</li>
 <li>Flins</li>
 <li>Hohenheim + Hohen</li>
 <li>Rien</li>
@@ -97,6 +96,7 @@ Hi, I'm <b>Hohenheim, Mitya, or Flins</b> — welcome to my profile. Please feel
 <li><i>Writing</i></li>
 <li><i>Roleplaying</i></li>
 <li><i>Code-Solving</i></li>
+<li><i>Researching random things</i></li>
 <li><i>And many more...</i></li>
 </ul>
 
@@ -207,7 +207,7 @@ Hi, I'm <b>Hohenheim, Mitya, or Flins</b> — welcome to my profile. Please feel
 <br>
 
 <blockquote>
-<i>"No instrument could ever replicate the sheer power and grandeur of thunder."</i>
+<i>"The theater, of course. Appreciating the classics. Soaking up the, uh... cultural atmosphere."</i>
 </blockquote>
 
 <ul>
@@ -229,14 +229,14 @@ Hi, I'm <b>Hohenheim, Mitya, or Flins</b> — welcome to my profile. Please feel
 
 <div align="center">
 
-<img src="./genshin-impact-genshin-impact-flins.gif" width="470">
+<img src="./mitya-genshin-banner.gif" width="470">
 
 </div>
 
 <br>
 
 <blockquote>
-<i>"People ought not be so frightened of ghosts. They are merely talking shadows, chattering away endlessly about their past affairs."</i>
+<i>"After I became a consultant to the Fatui, Valeriy warned me that the research I'm working on could change the world. Top secret and all that. I suggested he tell everyone the same thing about their work. Best place to hide a tree is in a forest, right? Then I wouldn't have to be so careful all the time. He said I've never been careful a day in my life. Is that really what he thinks of me? I'm hurt."</i>
 </blockquote>
 
 <br>
@@ -244,26 +244,28 @@ Hi, I'm <b>Hohenheim, Mitya, or Flins</b> — welcome to my profile. Please feel
 <p>
 <i>Thank you so much for reading! If you ever have any questions about my GitHub, you can always whisper me the questions that you have. There's no dumb questions, to an extent.</i>
 
-<i> Ah, and before I forget. Feel free to check out some of my other friends githubs as well. <i>
+<i>Ah, and before I forget. Feel free to check out some of my other friends' GitHubs as well.</i>
+
+<br>
 
 [@TangerinePudding](https://github.com/TangerinePudding)
-<li> Soon you'll see in BLACK and WHITE. /lyr </li>
+<li>Soon you'll see in BLACK and WHITE. /lyr</li>
 
 <br>
 
 [@WhentheSUNdreams](https://github.com/WhenTheSUNdreams)
-<li> A song of hope, now you can be free. /lyr </li>
+<li>A song of hope, now you can be free. /lyr</li>
 
 <br>
 
 [@radiant-zero](https://github.com/radiant-zero)
-<li> Blinding, Shining Star /lyr </li>
+<li>Blinding, Shining Star /lyr</li>
 </p>
 
 <br>
 
 <blockquote>
-<i>"Let us have a modicum of patience for the richness and complexity of humanity."</i>
+<i>"With all the classified work I do, I'm not normally allowed to go traveling abroad whenever I like. Even signing the thickest nondisclosure agreement wouldn't change that. But Scarf proved its loyalty to the organization. They invited it to sign a form appointing it as my guardian... How weird is that? I have Scarf to thank for being free to go adventuring with you."</i>
 </blockquote>
 
 </details>
@@ -273,5 +275,16 @@ Hi, I'm <b>Hohenheim, Mitya, or Flins</b> — welcome to my profile. Please feel
 <div align="center">
 
 <h3>
-<i>"I prefer to be active during the night. The purpose of a lamp is to shine light into the darkness, is it not?"</i>
+<i>"I used to love talking about my life. Then I joined the Energy Commission, and the old hands told me that anyone who doesn't want to be updating their resume in a hurry had better keep a low profile. *sigh* Trouble is, it slips my mind the second I open my mouth. Good thing I've got Scarf."</i>
 </h3>
+
+<br>
+
+<i>"Ahh... I want to control Scarf, and I want to control when inspiration strikes. Ideally, that control would be effective round the clock."</i>
+
+<br>
+
+<img src="./mitya-genshin.gif" width="250">
+
+</div>
+```
