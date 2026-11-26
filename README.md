@@ -4,7 +4,7 @@
 
 <h3><i>An Expert from the Energy Commission</i></h3>
 
-<img src="./mitya-genshin-sticker.gif" width="180">
+<img src="./mitya-mitya-genshin.gif" width="180">
 
 <p>
 <i>"Good morning, friend! Wait, is it morning? Ah, doesn't matter!"</i>
@@ -29,11 +29,11 @@
 </blockquote>
 
 <p>
-Hi, I'm <b>Mitya</b> — or Hohenheim, Flins, and a few other names. Welcome to my little corner of GitHub! Feel free to look around.
+Hi, I'm <b>Mitya</b> — or Hohenheim, Flins, and a few other names. Nice to see you in my little corner of Github! Feel free to look around.
 </p>
 
 <p>
-<i>A curious mind, a wandering imagination, and a tendency to get distracted by inspiration at the most inconvenient times.</i>
+<i>An exceptionally ingenious energy specialist and a master of the fine art of "schedule-dodging."</i>
 </p>
 
 <ul>
@@ -68,7 +68,6 @@ Hi, I'm <b>Mitya</b> — or Hohenheim, Flins, and a few other names. Welcome to 
 <li>Flins</li>
 <li>Hohenheim + Hohen</li>
 <li>Rien</li>
-<li>Duke</li>
 </ul>
 
 <br>
@@ -96,7 +95,7 @@ Hi, I'm <b>Mitya</b> — or Hohenheim, Flins, and a few other names. Welcome to 
 <li><i>Writing</i></li>
 <li><i>Roleplaying</i></li>
 <li><i>Code-Solving</i></li>
-<li><i>Researching random things</i></li>
+<li><i>Researching</i></li>
 <li><i>And many more...</i></li>
 </ul>
 
@@ -139,8 +138,6 @@ Hi, I'm <b>Mitya</b> — or Hohenheim, Flins, and a few other names. Welcome to 
 
 <ul>
 <li><i>Hohenheim (Limbus Company)</i></li>
-<li><i>Rien (Limbus Company)</i></li>
-<li><i>Marton (Limbus Company)</i></li>
 <li><i>Flins (Genshin Impact)</i></li>
 <li><i>Wanderer (Genshin Impact)</i></li>
 <li><i>Mitya (Genshin Impact)</i></li>
@@ -229,7 +226,7 @@ Hi, I'm <b>Mitya</b> — or Hohenheim, Flins, and a few other names. Welcome to 
 
 <div align="center">
 
-<img src="./mitya-genshin-banner.gif" width="470">
+<img src="./mitya-genshin-impact.gif" width="470">
 
 </div>
 
@@ -284,7 +281,6 @@ Hi, I'm <b>Mitya</b> — or Hohenheim, Flins, and a few other names. Welcome to 
 
 <br>
 
-<img src="./mitya-genshin.gif" width="250">
+<img src="./mitya elemental burst gif.gif" width="250">
 
 </div>
-```
