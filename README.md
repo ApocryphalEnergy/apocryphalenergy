@@ -280,7 +280,7 @@ Hi, I'm <b>Mitya</b> — or Hohenheim, Flins, and a few other names. Welcome to 
 
 <br>
 
-<i>"Ahh... I want to control Scarf, and I want to control when inspiration strikes. Ideally, that control would be effective round the clock."</i>
+<i>"Elemental Energy, Loaded!"</i>
 
 <br>
 
