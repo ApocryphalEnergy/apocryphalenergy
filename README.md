@@ -29,7 +29,7 @@
 </blockquote>
 
 <p>
-Hi, I'm <b>Mitya</b> — or Hohenheim, Flins, and a few other names. Nice to see you in my little corner of Github! Feel free to look around.
+Hi, I'm <b>Mitya</b> or Hohenheim, Flins, and a few other names. Nice to see you in my little corner of Github! Feel free to look around.
 </p>
 
 <p>
